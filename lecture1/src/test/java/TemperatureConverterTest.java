@@ -7,7 +7,7 @@ class TemperatureConverterTest {
     @org.junit.jupiter.api.Test
     void fahrenheitToCelsius() {
         assertEquals(0, converter.fahrenheitToCelsius(32));
-        assertEquals(32.22222222222222, converter.fahrenheitToCelsius(90));
+        assertEquals(32.2222222222222, converter.fahrenheitToCelsius(90));
     }
 
     @org.junit.jupiter.api.Test
