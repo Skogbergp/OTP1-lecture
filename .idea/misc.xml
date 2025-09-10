@@ -6,6 +6,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/lecture1/pom.xml" />
+        <option value="$PROJECT_DIR$/Account/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Account/src/pom.xml" />
+        <option value="$PROJECT_DIR$/TemperatureConverter/pom.xml" />
       </list>
     </option>
   </component>
