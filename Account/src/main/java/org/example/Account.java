@@ -1,7 +1,7 @@
 package org.example;
 
 public class Account {
-    double balance;
+    private double balance;
 
     public Account(){
         this.balance = 0;

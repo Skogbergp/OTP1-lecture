@@ -10,5 +10,8 @@
         <module name="TemperatureConverter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="OTP1" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

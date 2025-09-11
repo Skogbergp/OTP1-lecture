@@ -33,6 +33,7 @@ class AccountTest {
         assertEquals(150, account.getBalance());
         account.deposit(-20);
         assertEquals(150, account.getBalance());
+        assertEquals(0, emptyAccount.getBalance());
         emptyAccount.deposit(30);
         assertEquals(30, emptyAccount.getBalance());
     }
