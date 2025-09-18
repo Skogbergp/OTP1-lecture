@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Account" target="21" />
+      <module name="Account" target="23" />
       <module name="OTP" target="1.5" />
       <module name="OTP1" target="21" />
     </bytecodeTargetLevel>
